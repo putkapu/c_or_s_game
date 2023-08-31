@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+form {
+  text-align: center;
+}
+
+.system_entry {
+  width: 400px;
+  font-size: 36px;
+  padding: 10px;
+}
+
+input[type="text"] {
+  width: 400px;
+  font-size: 36px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

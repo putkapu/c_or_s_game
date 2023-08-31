@@ -1,5 +1,5 @@
 ### heavy resources
-c_or_s_game/game/resources/skip_s100.txt
+game/resources/skip_s100.txt
 
 ### Django template
 *.log
@@ -191,3 +191,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+/game/resources/skip_s100.txt
